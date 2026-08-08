@@ -1,4 +1,4 @@
-# 🚀 GitHub Profile Analyzer using Model Context Protocol (MCP)
+<img width="1697" height="711" alt="image" src="https://github.com/user-attachments/assets/3d666188-ae70-4631-b76e-1819a514a901" /># 🚀 GitHub Profile Analyzer using Model Context Protocol (MCP)
 
 > An AI-powered GitHub Profile Analyzer built using **FastMCP**, **Model Context Protocol (MCP)**, **OpenRouter LLMs**, **Streamlit**, and the **GitHub REST API**.
 
@@ -18,17 +18,13 @@ This project demonstrates how **LLMs**, **MCP**, and **AI Agents** can work toge
 
 # 📸 Project Preview
 
-> Replace these placeholders with screenshots after running your application.
 
-![Home Screen](images/home.png)
-
----
-
-![Chat Interface](images/chat.png)
+<img width="1885" height="903" alt="Screenshot 2026-08-08 224236" src="https://github.com/user-attachments/assets/acb72906-d265-40a8-8a66-5b8f51cd971a" />
 
 ---
 
-![GitHub Analysis](images/analysis.png)
+<img width="1697" height="711" alt="image" src="https://github.com/user-attachments/assets/104bf94a-141b-4a8f-8950-2657e3e4768f" />
+
 
 ---
 
