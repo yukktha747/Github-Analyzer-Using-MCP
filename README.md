@@ -1,4 +1,4 @@
-<img width="1697" height="711" alt="image" src="https://github.com/user-attachments/assets/3d666188-ae70-4631-b76e-1819a514a901" /># 🚀 GitHub Profile Analyzer using Model Context Protocol (MCP)
+# 🚀 GitHub Profile Analyzer using Model Context Protocol (MCP)
 
 > An AI-powered GitHub Profile Analyzer built using **FastMCP**, **Model Context Protocol (MCP)**, **OpenRouter LLMs**, **Streamlit**, and the **GitHub REST API**.
 
